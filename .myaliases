@@ -1,0 +1,14 @@
+plugins=(git sublime bundler dircycle autojump compleat)
+
+alias gap='git add -p'
+alias ga='git add'
+alias grm='git rm'
+alias push='git push origin master'
+alias pushu='git push -u origin master'
+alias pull='git pull origin master'
+alias com='git commit'
+alias unstage='git reset HEAD'
+alias gs='git status'
+alias gb='git branch'
+alias hist='git log --pretty'
+alias co='git checkout'
