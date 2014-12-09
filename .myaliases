@@ -18,5 +18,6 @@ alias cuke='cucumber'
 alias cukej='cucumber -p javascript'
 
 #RSPEC
-alias rspec='bundle exec rspec'
+alias spec='bundle exec rspec'
+
 
