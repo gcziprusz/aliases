@@ -12,3 +12,11 @@ alias gs='git status'
 alias gb='git branch'
 alias hist='git log --pretty'
 alias co='git checkout'
+
+#CUCUMBERZ
+alias cuke='cucumber'
+alias cukej='cucumber -p javascript'
+
+#RSPEC
+alias rspec='bundle exec rspec'
+
